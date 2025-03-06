@@ -1,4 +1,4 @@
-package com.example.tugashelloworld
+package com.example.tugashelloandroid
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
