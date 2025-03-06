@@ -41,7 +41,7 @@ val gradientBackground = Brush.linearGradient(
  ┣ 📂app
  ┃ ┣ 📂src
  ┃ ┃ ┣ 📂main
- ┃ ┃ ┃ ┣ 📂java
+ ┃ ┃ ┃ ┣ 📂java/com/example/tugashelloworld
  ┃ ┃ ┃ ┃ ┣ 📜MainActivity.kt
  ┃ ┃ ┃ ┣ 📂res
  ┃ ┃ ┃ ┃ ┗ 📜themes.xml
