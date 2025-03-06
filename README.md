@@ -4,7 +4,7 @@ Tugas untuk mata kuliah **Mobile Programming**. Project ini dibuat menggunakan *
 
 
 ## 🛠 Fitur
-- Menampilkan teks **"Hello, World!"** di tengah layar.  
+- Menampilkan teks **"Hello Android!"** di tengah layar.  
 - **Background gradient** dari warna hitam ke abu-abu gelap.  
 - Menggunakan **Jetpack Compose** tanpa XML.
 
@@ -41,7 +41,7 @@ val gradientBackground = Brush.linearGradient(
  ┣ 📂app
  ┃ ┣ 📂src
  ┃ ┃ ┣ 📂main
- ┃ ┃ ┃ ┣ 📂java/com/example/tugashelloworld
+ ┃ ┃ ┃ ┣ 📂java/com/example/
  ┃ ┃ ┃ ┃ ┣ 📜MainActivity.kt
  ┃ ┃ ┃ ┣ 📂res
  ┃ ┃ ┃ ┃ ┗ 📜themes.xml
@@ -83,4 +83,4 @@ Project ini dibuat untuk keperluan **tugas kuliah** dan tidak memiliki lisensi k
 
 ---
 
-Terima kasih sudah mengunjungi repo ini! 🚀😎
+Terima kasih sudah mengunjungi repo ini! 🚀
