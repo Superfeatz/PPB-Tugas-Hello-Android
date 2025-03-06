@@ -50,7 +50,7 @@ fun HelloWorld() {
         contentAlignment = Alignment.Center
     ) {
         Text(
-            text = "Hello, World!",
+            text = "Hello Android!",
             color = Color.White,  // Warna teks putih agar kontras
             style = MaterialTheme.typography.bodyLarge
         )
