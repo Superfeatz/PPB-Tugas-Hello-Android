@@ -10,13 +10,6 @@ Tugas untuk mata kuliah **Mobile Programming**. Project ini dibuat menggunakan *
 
 ---
 
-## 📋 Prasyarat
-- **Android Studio Flamingo** atau yang lebih baru.  
-- **JDK 11** atau lebih tinggi.  
-- **Koneksi Internet** untuk mengunduh dependensi.
-
-
-
 ## 🖌️ Kustomisasi Background Gradient
 Untuk mengganti warna background gradient, buka file:  
 **`MainActivity.kt`** dan ubah bagian ini:
@@ -48,7 +41,7 @@ val gradientBackground = Brush.linearGradient(
  ┣ 📂app
  ┃ ┣ 📂src
  ┃ ┃ ┣ 📂main
- ┃ ┃ ┃ ┣ 📂java/com/example/helloworldcompose
+ ┃ ┃ ┃ ┣ 📂java
  ┃ ┃ ┃ ┃ ┣ 📜MainActivity.kt
  ┃ ┃ ┃ ┣ 📂res
  ┃ ┃ ┃ ┃ ┗ 📜themes.xml
