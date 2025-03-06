@@ -84,4 +84,3 @@ Project ini dibuat untuk keperluan **tugas kuliah** dan tidak memiliki lisensi k
 ---
 
 Terima kasih sudah mengunjungi repo ini! 🚀😎
-```
