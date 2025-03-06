@@ -1,6 +1,6 @@
 
-# 📱 Hello World Compose
-Tugas untuk mata kuliah **Mobile Programming**. Project ini dibuat menggunakan **Jetpack Compose** di Android Studio untuk menampilkan teks sederhana "Hello, World!" dengan latar belakang hitam.
+# 📱 Hello Android
+Tugas untuk mata kuliah **Mobile Programming**. Project ini dibuat menggunakan **Jetpack Compose** di Android Studio untuk menampilkan teks sederhana "Hello Android!".
 
 
 ## 🛠 Fitur
